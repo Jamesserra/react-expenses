@@ -13,9 +13,9 @@
     font: inherit;
     cursor: pointer;
     padding: 1rem 2rem;
-    border: 1px solid #515152;
-    background-color: #696969;
-    color: white;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     border-radius: 12px;
     margin-right: 1rem;
   }
